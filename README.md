@@ -1,7 +1,7 @@
 # Species-Index
 Species Index for the SECAS BP 2021 Update
 
-Within this repository are the following artificats: 
+Within this repository are the following artifacts: 
 #Compressed folder containing the .tiff version of the Species Index - this is the final dataset product
 #FAQ Document - contains a summary of the dataset
 #Python script used to create the final index

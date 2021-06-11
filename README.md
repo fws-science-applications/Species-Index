@@ -2,7 +2,7 @@
 Species Index for the SECAS BP 2021 Update
 
 Within this repository are the following artifacts: 
-#Compressed folder containing the .tiff version of the Species Index - this is the final dataset product
+#Compressed folder containing the .tiff version of the Species Index - this is the final dataset product **current file is outdated, needs to be replaced with output from updated code. New code changes the environmental settings for spatial reference during calculation.**
 #FAQ Document.docx - contains a summary of the dataset
 #Python script used to create the final index
 #links to download needed data inputs
